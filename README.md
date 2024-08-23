@@ -1,7 +1,6 @@
 
-## Instalar Ionic
-# Revisar: [https://www.kaggle.com/datasets](Kaggle)**
-Install my-project with npm
+## Instalación proyecto
+# Revisar: [https://www.kaggle.com/datasets](Kaggle)
 
 ### I) Instalar desde PowerShell: npm install -g @ionic/cli@7
 
