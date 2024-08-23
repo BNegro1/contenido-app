@@ -49,11 +49,13 @@ Your Ionic app is ready! Follow these next steps:
 
 – Requerimientos de la Aplicación::
 
-A) Inicio de Sesión
+A) Inicio de Sesión:
+    
     1) Usuario y Contraseña
     2) Crear Usuario
     3) Restablecer Contraseña
 
-B) Creación y Lector de QR
+B) Creación y Lector de QR:
+
     1) Creador de QR
     2) Uso de Camara
